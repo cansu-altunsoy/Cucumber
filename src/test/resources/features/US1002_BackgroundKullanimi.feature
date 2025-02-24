@@ -15,7 +15,7 @@
 
 
 
-
+    @paralel1
     Scenario: TC05 kullanici testotomasyonu sitesinde dress bulabilmeli
 
 
@@ -24,7 +24,7 @@
 
 
 
-
+    @paralel2
     Scenario: TC06 kullanici testotomasyonu sitesinde java bulamamali
 
 
